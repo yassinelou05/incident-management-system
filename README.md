@@ -20,7 +20,7 @@ These capabilities are present in the source; this cleaned release has not been 
 | Layer | Technologies |
 | --- | --- |
 | Backend | Java 17 target, Spring Boot 4.1.0, Spring MVC, Spring Security, Spring Data JPA, Lombok |
-| Authentication | JJWT 0.11.5, BCrypt |
+| Authentication | JWT 0.11.5, BCrypt |
 | Database | MySQL, Hibernate |
 | Frontend | React 18, React Router 6, Axios, Recharts |
 | Tooling | Maven wrapper, Vite 5, npm lockfile |
